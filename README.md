@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tregt15 a 18 year old male
+- 👀 I’m interested in Programming, Gym, Swimming, Snowboarding, Video Games, and much much more.
+- 🌱 I’m currently learning Gamedev, Typescript, Angular, Robotics.
+- 📫 How to reach me | tregt15@gmail.com
